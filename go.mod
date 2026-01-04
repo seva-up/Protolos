@@ -1,4 +1,4 @@
-module ProT
+module github.com/seva-up/Protolos
 
 go 1.25.4
 
